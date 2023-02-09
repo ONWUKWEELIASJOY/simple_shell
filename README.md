@@ -14,7 +14,7 @@
 
 - GitHub: [@egbuta-godslove](https://github.com/Egbuta-Godslove)
 - LinkedIn: [LinkedIn](linkedin.com/in/Egbuta-Godslove)
-- Twitter: [@JUSTICEMBLAY](https://twitter.com/Ugochukwu_GL)
+- Twitter: [@ugochukwu_gl](https://twitter.com/Ugochukwu_GL)
 
 ## Project was completed using
 
