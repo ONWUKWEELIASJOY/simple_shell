@@ -2,15 +2,19 @@
 
 > This is an ALX collaboration project on Shell. We were tasked to create a simple shell that mimics the Bash shell. Our shell shall be called **hsh**
   
- Project by:  [ONWUKWE-ELIAS JOY CHINONSO] (https://github.com/ONWUKWEELIASJOY)
- >>>>>>>>>>>> [ONWUKWEELIASJOY@twitter](https://twitter.com/ELIAS_JOY1?t=-JOWHqCU_4uou3-tYQ_XYg&s=09)
- >>>>>>>>>>>> [ONWUKWEELIASJOY@facebook](https://www.facebook.com/profile.php?id=100086024554959&mibextid=ZbWKwL)
- >>>>>>>>>>>> [ONWUKWEELIASJOY@facebookpage](https://m.facebook.com/102727742711678/)
+## Authors ##
 
- Collabrator: [Egbuta Ugochukwu Godslove] (https://github.com/Egbuta-Godslove)
- >>>>>>>>>>>> [Egbuta-Godslove@twitter](https://twitter.com/Ugochukwu_GL?t=bZbrw0AcSLFSK04NmQZJdg&s=09)
- >>>>>>>>>>>> [Egbuta-Godslove@facebook](https://www.facebook.com/godslove.egbuta.98?mibextid=ZbWKwL)
- >>>>>>>>>>>> [Egbuta-Godslove@facebookpage](https://www.facebook.com/socialspot7?mibextid=ZbWKwL)
+👤 **ONWUKWE-ELIAS JOY CHINONSO**
+
+- GitHub: [@onwukweeliasjoy](https://github.com/ONWUKWEELIASJOY)
+- Twitter: [@onwukweeliasjoy](https://twitter.com/ELIAS_JOY1)
+- Facebook:[@onwukweeliasjoy] (https://www.facebook.com/profile.php?id=100086024554959&mibextid=ZbWKwL)
+
+👤 **EGBUTA UGOCHUKWU GODSLOVE**
+
+- GitHub: [@egbuta-godslove](https://github.com/Egbuta-Godslove)
+- LinkedIn: [LinkedIn](linkedin.com/in/Egbuta-Godslove)
+- Twitter: [@JUSTICEMBLAY](https://twitter.com/Ugochukwu_GL)
 
 ## Project was completed using
 
@@ -56,5 +60,17 @@ To invoke **hsh**, compile all `.c` files in the repository and run the resultin
 
 **hsh** can be invoked both interactively and non-interactively. If **hsh** is invoked with standard input not connected to a terminal, it reads and executes received commands in order.
 
+Example:
+```
+$ echo "echo 'hello'" | ./hsh
+'hello'
+$
+```
 
+If **hsh** is invoked with standard input connected to a terminal (determined by [isatty](https://linux.die.net/man/3/isatty)(3)), an *interactive* shell is opened. When executing interactively, **hsh** displays the prompt `$ ` when it is ready to read a command.
 
+Example:
+```
+$./hsh
+$
+```
