@@ -8,12 +8,12 @@
 
 - GitHub: [@onwukweeliasjoy](https://github.com/ONWUKWEELIASJOY)
 - Twitter: [@onwukweeliasjoy](https://twitter.com/ELIAS_JOY1)
-- Facebook:[@onwukweeliasjoy] (https://www.facebook.com/profile.php?id=100086024554959&mibextid=ZbWKwL)
+- Facebook: [@onwukweeliasjoy] (https://www.facebook.com/profile.php?id=100086024554959&mibextid=ZbWKwL)
 
 👤 **EGBUTA UGOCHUKWU GODSLOVE**
 
 - GitHub: [@egbuta-godslove](https://github.com/Egbuta-Godslove)
-- LinkedIn: [LinkedIn](linkedin.com/in/Egbuta-Godslove)
+- LinkedIn: [@Egbuta-Godslove](linkedin.com/in/Egbuta-Godslove)
 - Twitter: [@ugochukwu_gl](https://twitter.com/Ugochukwu_GL)
 
 ## Project was completed using
